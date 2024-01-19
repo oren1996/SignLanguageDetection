@@ -1,11 +1,9 @@
 # ComputerVision
 Some Computer Vision Projects
 
-## 1) SignLanguageDetection
-
-Certainly! Here's the revised README with the updated project overview:
-
 ---
+
+## 1) SignLanguageDetection
 
 # Sign Language Detection Project
 
