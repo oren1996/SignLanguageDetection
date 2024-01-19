@@ -3,8 +3,6 @@ Some Computer Vision Projects
 
 ---
 
-## 1) SignLanguageDetection
-
 # Sign Language Detection Project
 
 ## Overview
