@@ -1,8 +1,3 @@
-# ComputerVision
-Some Computer Vision Projects
-
----
-
 # Sign Language Detection Project
 
 ## Overview
